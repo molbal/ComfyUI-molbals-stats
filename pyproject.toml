@@ -1,0 +1,17 @@
+[project]
+name = "molbals-stats"
+version = "1.0.0"
+description = "Prompt diagnostics output node for elapsed time plus sampled peak process RAM and device VRAM."
+license = { text = "MIT License" }
+requires-python = ">=3.10"
+dependencies = [
+    "psutil",
+]
+
+[project.urls]
+Repository = "https://github.com/molbal/ComfyUI-molbals-stats"
+
+[tool.comfy]
+PublisherId = "molbal94"
+DisplayName = "molbals-stats"
+Icon = "https://raw.githubusercontent.com/molbal/ComfyUI-molbals-stats/master/icon.png"

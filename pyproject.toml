@@ -14,4 +14,4 @@ Repository = "https://github.com/molbal/ComfyUI-molbals-stats"
 [tool.comfy]
 PublisherId = "molbal94"
 DisplayName = "molbals-stats"
-Icon = "https://raw.githubusercontent.com/molbal/ComfyUI-molbals-stats/master/icon.png"
+Icon = "https://github.com/molbal/ComfyUI-molbals-stats/raw/master/icon.png"
